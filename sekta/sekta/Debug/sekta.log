@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\studia\aisd\sekta\sekta\main.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\studia\aisd\sekta\sekta\main.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\studia\aisd\sekta\sekta\main.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\studia\aisd\sekta\sekta\main.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  sekta.vcxproj -> C:\Studia\AiSD\sekta\Debug\sekta.exe
+  sekta.vcxproj -> C:\Studia\AiSD\sekta\Debug\sekta.pdb (Partial PDB)
